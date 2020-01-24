@@ -40,4 +40,4 @@ $ catkin_make
 https://youtu.be/2gX3uzQG02o  
 
 ## LICENSE  
-This repository is licensed under the BSD-2-Clause license, see LICENSE.
+This repository is licensed under the BSD-3-Clause license, see LICENSE.
