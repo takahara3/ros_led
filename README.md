@@ -11,6 +11,8 @@ LEDの点滅を行うROSパッケージ.
   - Ubuntu 16.04
 * LED 　　
   - 赤（大）：22番ピン（GPIO25） 
+* ROS  
+  - Kinetic Kame
 
 ## インストール方法  
 ### 前処理  
